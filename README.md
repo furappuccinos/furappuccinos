@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @furappuccinos
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning JavaScript, ReactJS, NextJS
-- 💞️ I’m looking to collaborate on anything interesting
-- 📫 How to reach me... hmmm...
+- 👋 Hi, I’m Furat
+- 👀 I am a front-end developer using JavaScript and ReactJS
+- 🌱 I like the environment
+- 💞️ I’m looking to make cool things
+- 📫 I am not a robot
 
 <!---
 furappuccinos/furappuccinos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
